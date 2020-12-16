@@ -10,6 +10,7 @@ Cara ou Coroa
   <a>Como funciona</a> |
   <a>Tecnologias Utilizadas</a> | 
   <a>Como Contribuir</a> | 
+  <a>Licença</a> |
   <a>Agradecimentos</a>
 </h4>
 
@@ -17,18 +18,12 @@ Cara ou Coroa
 
 Um aplicativo que por meio de escolha aleatória retorna um resultado entre "cara" e "coroa". Mais um projeto feito com o objetivo de exercitar e aplicar os conhecimentos adquiridos no curso de desenvolvimento Flutter.
 
-
-
 ## Como funciona
-
-
 
 | Local | Funcionalidade |
 | --- | --- |
 | homepage | Página inicial do app onde o usuário pode iniciar por meio do botão "JOGAR" |
 | resultado | Página secundária do app onde é mostrado ao usuário o resultado do sorteio|
-
-
 
 ## Tecnologias Utilizadas
 
@@ -38,8 +33,6 @@ O projeto foi desenvolvido utilizando as seguintes ferramentas e tecnologias:
 * Framework [Flutter](https://flutter.dev/)
 * Ambiente de desenvolvimento [Android Studio](https://developer.android.com/studio?hl=pt-br)
 
-
-
 ## Como contribuir
 
 - Faça um Fork do repositório
@@ -48,6 +41,10 @@ O projeto foi desenvolvido utilizando as seguintes ferramentas e tecnologias:
 - Faça um commit com suas mudanças
 - Push a sua branch
 - Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
+
+## Licença
+
+Licensed utilizada: [MIT Licence](LICENSE)
 
 ## Agradecimentos
 
